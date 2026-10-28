@@ -1,0 +1,80 @@
+                              ​             2026-27
+​        ​       ​
+
+Alumnado:            David Araiz Saez, Daniel Bernal, Aaron Hernandez
+
+Curso:               DAW2D                                          FECHA:        08/10/2026
+
+Tutor:               Roberto Marín López
+
+
+                                  PROPUESTA DEL MÓDULO DE PROYECTO
+
+Título del Proyecto: MATCH!CORE
+
+
+
+
+Objetivos:
+
+Desarrollar una aplicación web orientada a la gestión y seguimiento en tiempo real de partidos
+deportivos para el apoyo directo al cuerpo técnico.
+
+Facilitar el registro ágil de sucesos durante el encuentro (faltas, minutos, goles, tarjetas amarillas y
+rojas) asociadas de forma individual a cada jugador de la plantilla.
+
+Ofrecer una interfaz visual, intuitiva y adaptada, optimizada para su uso rápido desde tablets o
+smartphones a pie de pista.
+
+Almacenar y estructurar los datos históricos de los partidos y las estadísticas de los jugadores para
+facilitar el análisis posterior por parte del entrenador.
+
+Integrar sistemas de monitorización y dispositivos de sensorización para el seguimiento de la carga
+interna y el rendimiento físico de los jugadores en tiempo real.
+                          ​              2026-27
+Vinculación a empresa (Sí o No, Especificar empresa vinculada en caso afirmativo): no
+
+
+
+Actividades a realizar:
+
+Análisis de requisitos y diseño funcional de la aplicación web (casos de uso, flujos de navegación
+para el cuerpo técnico).
+
+Modelado y diseño de la base de datos para la gestión de equipos, plantillas de jugadores (ej. 12
+jugadores), partidos y eventos en directo (faltas, tarjetas, tiempos).
+
+Desarrollo del backend para la lógica de negocio y persistencia de datos.
+
+Desarrollo del frontend (interfaz de usuario interactiva y adaptable a dispositivos móviles).
+
+Pruebas de integración, validación de usabilidad en entorno real/simulado y despliegue de la
+aplicación.
+
+
+
+Recursos necesarios para la ejecución:
+
+Hardware: Ordenadores portátiles para el desarrollo y dispositivos móviles/tablets para pruebas de
+campo y sensores biométricos o herramientas de simulación.
+
+Software de desarrollo: Visual Studio Code, control de versiones (Git / GitHub), entornos de
+ejecución (Node.js o similar) y gestores de bases de datos.
+
+Tecnologías web: HTML5, CSS3, JavaScript .
+
+Gestión del proyecto: Herramientas de planificación y control de tareas (Trello, Jira o Notion).
+
+Otras consideraciones (Opcional):
+
+El proyecto nace enfocado al fútbol sala y al fútbol, pero su arquitectura se planteará de forma
+modular y escalable para permitir su fácil adaptación a otros deportes de equipo en futuras
+versiones.
+
+
+
+
+                                                           Zaragoza, a __de ___ de ____
+
+                                                           Fdo.: ____________________
+
