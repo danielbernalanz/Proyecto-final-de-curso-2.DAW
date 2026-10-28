@@ -1,0 +1,13 @@
+# Archivos de bloqueo de LibreOffice / Word
+.~lock.*#
+~$*
+
+# Copias de seguridad
+*_backup*.docx
+
+# Herramientas
+docs/.firecrawl/
+
+# Sistema
+.DS_Store
+Thumbs.db
