@@ -11,3 +11,9 @@ docs/.firecrawl/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Documentación: se gestiona en Google Drive (carpeta "proyecto fin de grado")
+docs/
+*.docx
+*.doc
+*.DOC
