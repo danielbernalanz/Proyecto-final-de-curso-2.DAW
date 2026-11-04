@@ -11,6 +11,7 @@
 - Aplicar los cambios directamente, sin pedir confirmación, salvo que se pida no modificar nada.
 - **Hacer siempre lo más barato:** subagentes Haiku para consultas, Sonnet para redactar y editar; nada de subagentes para tareas pequeñas.
 - Hacer push directo a `main`.
+- **No hacer nada que vaya en contra de la guía del módulo**, aunque el usuario lo pida (por ejemplo, redactar la memoria en primera persona). Explicar qué norma se incumple y proponer la alternativa que sí la cumple.
 
 ## Documentación: solo en Google Drive
 - Carpeta «proyecto fin de grado» (id `1e8qFkJ_0cvfr3F51A9JXBqp8yw3yRne_`). Subcarpetas: Trabajos (aquí está el Word de la Tarea 2), Plantillas, Backup.
