@@ -26,7 +26,7 @@
 
 ## Estado
 - Tarea 2: apartados 1.1 a 1.4 escritos, con número de página en el pie e índice.
-- **Base para seguir editando la Tarea 2: la V10_2 del usuario** (no mi V10). Sus correcciones, que hay que conservar:
+- **Base para seguir editando la Tarea 2: la V11** (hecha sobre la V10_2 del usuario, no sobre mi V10). Sus correcciones, que hay que conservar:
   - Portada: quitado el texto «CPIFP Los Enlaces», porque el logo del centro ya dice lo mismo.
   - Encabezado: quitado el logo del centro; queda MATCH!CORE, el título de la tarea con la página y el escudo del proyecto.
   - Índice y índice de tablas regenerados en Word (no volver a tocarlos a mano).
