@@ -4,7 +4,7 @@
 - Aplicación web para seguir partidos en tiempo real: eventos por jugador, uso desde tablet o móvil, estadísticas y sensores.
 - Deportes: fútbol, fútbol sala, baloncesto, balonmano y voleibol. Flujo común y un **reglamento por deporte** (tiempo, eventos, cambios y avisos).
 - Equipo: David Araiz Saez, Daniel Bernal Anzano (dueño del repo) y Aaron Hernandez Ocejo. Ciclo DAW2D, CPIFP Los Enlaces, curso 2026-27. Tutor: Roberto Marín López.
-- Entregas cada 15–20 días en Aeducar, en Word con la plantilla oficial; calificación apto o no apto. Entrega final en julio de 2027.
+- Entregas cada 15–20 días en Aeducar, en Word con la plantilla oficial; calificación apto o no apto. Entrega final en junio de 2027.
 
 ## Cómo trabajar
 - Responder en español, paso a paso. Ejecutar los comandos uno mismo siempre que se pueda.
