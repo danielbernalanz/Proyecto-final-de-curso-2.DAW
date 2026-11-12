@@ -26,11 +26,11 @@
 
 ## Estado
 - Tarea 2: apartados 1.1 a 1.4 escritos, con número de página en el pie e índice.
-- **Base para seguir editando la Tarea 2: la V14** (hecha sobre la V10_2 del usuario, no sobre mi V10). Sus correcciones, que hay que conservar:
+- **Base para seguir editando la Tarea 2: la V15** (hecha sobre la V10_2 del usuario, no sobre mi V10). Sus correcciones, que hay que conservar:
   - Portada: quitado el texto «CPIFP Los Enlaces», porque el logo del centro ya dice lo mismo.
   - Encabezado: quitado el logo del centro; queda MATCH!CORE, el título de la tarea con la página y el escudo del proyecto.
   - Índice y índice de tablas regenerados en Word (no volver a tocarlos a mano).
-- Análisis de la realidad (1.1.2): una página **oficial** por herramienta (Flashscore, Hudl Sportscode, Catapult One Team y Spond), enlazada y con lo que se ve en ella sin iniciar sesión. No usar noticias ni tiendas de terceros como prueba. Profesor: una justificación vaga, algo sin sentido o una afirmación sin respaldo es un 0; evitar generalizaciones («lo habitual», «muchos»). GameChanger y Sofascore/Torneo se quitaron (no accesibles desde España); Polar también (sin página oficial verificable). Las cuatro URL se probaron desde España (móvil del usuario, Termux): 200 y frases clave presentes.
+- Análisis de la realidad (1.1.2): una página **oficial** por herramienta (Flashscore [preguntas frecuentes], Hudl Sportscode, Catapult One Team y Spond; nunca la página principal), enlazada y con lo que se ve en ella sin iniciar sesión. No usar noticias ni tiendas de terceros como prueba. Profesor: una justificación vaga, algo sin sentido o una afirmación sin respaldo es un 0; evitar generalizaciones («lo habitual», «muchos»). GameChanger y Sofascore/Torneo se quitaron (no accesibles desde España); Polar también (sin página oficial verificable). Las cuatro URL se probaron desde España (móvil del usuario, Termux): 200 y frases clave presentes.
 - David la editó en Google Docs. Valoración pendiente de corregir:
   - Contradicción: el 1.1.1 habla de varios deportes y el resto del documento solo de fútbol y fútbol sala. Falta el baloncesto.
   - Errores: «esfuerzo mental» (debe ser físico), «se trate» y una coma entre sujeto y complemento.
