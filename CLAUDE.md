@@ -30,7 +30,7 @@
   - Portada: quitado el texto «CPIFP Los Enlaces», porque el logo del centro ya dice lo mismo.
   - Encabezado: quitado el logo del centro; queda MATCH!CORE, el título de la tarea con la página y el escudo del proyecto.
   - Índice y índice de tablas regenerados en Word (no volver a tocarlos a mano).
-- Análisis de la realidad (1.1.2): una página **oficial** por herramienta (Flashscore, Hudl Sportscode, Catapult One Team y Spond), enlazada y con lo que se ve en ella sin iniciar sesión. No usar noticias ni tiendas de terceros como prueba. Profesor: una justificación vaga, algo sin sentido o una afirmación sin respaldo es un 0; evitar generalizaciones («lo habitual», «muchos»). GameChanger y Sofascore/Torneo se quitaron (no accesibles desde España); Polar también (sin página oficial verificable). Pendiente: el usuario debe probar las cuatro URL desde España.
+- Análisis de la realidad (1.1.2): una página **oficial** por herramienta (Flashscore, Hudl Sportscode, Catapult One Team y Spond), enlazada y con lo que se ve en ella sin iniciar sesión. No usar noticias ni tiendas de terceros como prueba. Profesor: una justificación vaga, algo sin sentido o una afirmación sin respaldo es un 0; evitar generalizaciones («lo habitual», «muchos»). GameChanger y Sofascore/Torneo se quitaron (no accesibles desde España); Polar también (sin página oficial verificable). Las cuatro URL se probaron desde España (móvil del usuario, Termux): 200 y frases clave presentes.
 - David la editó en Google Docs. Valoración pendiente de corregir:
   - Contradicción: el 1.1.1 habla de varios deportes y el resto del documento solo de fútbol y fútbol sala. Falta el baloncesto.
   - Errores: «esfuerzo mental» (debe ser físico), «se trate» y una coma entre sujeto y complemento.
